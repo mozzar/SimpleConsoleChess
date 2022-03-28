@@ -3,4 +3,4 @@ project(SimpleConsoleChess)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SimpleConsoleChess main.cpp Board.cpp Board.h)
+add_executable(SimpleConsoleChess main.cpp)
